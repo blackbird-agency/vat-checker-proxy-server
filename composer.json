@@ -1,0 +1,25 @@
+{
+    "name": "blackbird/vat_checker_proxy_server",
+    "description": "A server to proxy Europa Vies VAT Checker for magento 2",
+    "type": "library",
+    "version": "1.0.0",
+    "license": [
+        "MIT"
+    ],
+    "authors": [
+        {
+            "name": "Blackbird Agency",
+            "email": "hello@bird.eu"
+        }
+    ],
+    "require": {
+        "php" : ">=7.0",
+        "ext-soap": "*",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Blackbird\\VatCheckerProxyServer\\": "src"
+        }
+    }
+}
