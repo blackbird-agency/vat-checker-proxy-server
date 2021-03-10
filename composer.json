@@ -2,7 +2,7 @@
     "name": "blackbird/vat-checker-proxy-server",
     "description": "A server to proxy Europa Vies VAT Checker for magento 2",
     "type": "library",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": [
         "MIT"
     ],
