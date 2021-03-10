@@ -1,6 +1,6 @@
 <?php
 /*
- * Blackbird Category Empty Button
+ * Blackbird Vat Checker Proxy Server
  *
  * NOTICE OF LICENSE
  * If you did not receive a copy of the license and are unable to
